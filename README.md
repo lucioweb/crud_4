@@ -1,7 +1,7 @@
 # CRUD Com PHP e MySQL no VSCode, usando o Git Hub como versionador de código.
 ### Olá! 👋
 
-<!--
+
 **lucioweb/lucioweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 Essa é uma conta de estudante para o aprendizado do Git: 
 - Commits✔️
 - Pushs✔️
