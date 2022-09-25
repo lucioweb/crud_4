@@ -18,8 +18,8 @@
             <li><a class="dropdown-item" href="https://datatables.net/" target="_blank">datatables.net</a></li>
             <li><a class="dropdown-item" href="https://validator.w3.org/" target="_blank">Validando seu HTML</a></li>
             <li><a class="dropdown-item" href="https://releases.jquery.com/" target="_blank">JQuery CDN</a></li>
-            <li><a class="dropdown-item" href="#">ttt</a></li>
-            <li><a class="dropdown-item" href="#">Something else here</a></li>
+            <li><a class="dropdown-item" href="https://devicon.dev/">Ícones</a></li>
+            <!-- <li><a class="dropdown-item" href="#">Something else here</a></li> -->
           </ul>
         </li>
         <li class="nav-item dropdown">
