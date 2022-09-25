@@ -2,7 +2,7 @@
 ### Olá! 👋
 
 
-**lucioweb/lucioweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CRUD comPHP e MySQL** Exemplo de aplicação CRUD (Create, Read, Update e Delete) utilizando PHP, MySQL e Bootstrap 5.02. Projeto com foco apenas nas operações básicas do CRUD. Aspectos como autenticação de usuário, paginação, etc, foram considerados subjacentes.
 
 Here are some ideas to get you started:
 
