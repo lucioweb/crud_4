@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- Windows ✔️
+- <img align="center" heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> Windows ✔️
 - VSCode ✔️
 - WAMPP ✔️
 - PHP ✔️
