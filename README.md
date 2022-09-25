@@ -1,2 +1,6 @@
 # crud_4
-CRUD aplicattion
+## VSCode
+## PHP
+## MySQL
+## WAMPP
+## Git Hub
