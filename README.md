@@ -6,19 +6,15 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Windows ✔️
+- VSCode ✔️
+- WAMPP ✔️
+- PHP ✔️
+- HTML5 ✔️
+- CSS3 ✔️
+- Bootstrap 5.1 ✔️
+- Git HUB ✔️
 
-Essa é uma conta de estudante para o aprendizado do Git: 
-- Commits✔️
-- Pushs✔️
-- Pull requests✔️
 
 <!--<div style="display:inline_block">
   <img align="center" heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -38,7 +34,7 @@ Essa é uma conta de estudante para o aprendizado do Git:
 <div style="display:inline_block">
 <img src="https://img.shields.io/badge/Windows-E34F26?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/VSCode-E34F26?style=for-the-badge&logo=vscode&logoColor=white" />
-<img src="https://img.shields.io/badge/Angular-E34F26?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/WAMPP-E34F26?style=for-the-badge&logo=wampp&logoColor=white" />
 <img src="https://img.shields.io/badge/Markdown-E34F26?style=for-the-badge&logo=markdown&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-E34F26?style=for-the-badge&logo=css3&logoColor=white" />	
@@ -58,11 +54,3 @@ https://devicon.dev/
 https://dev.to/envoy_/150-badges-for-github-pnk
 https://shields.io/
 -->
-
-
-
-## VSCode
-## PHP
-## MySQL
-## WAMPP
-## Git Hub
