@@ -2,7 +2,7 @@
 ### Olá! 👋
 
 
-**CRUD comPHP e MySQL** é um exemplo de aplicação onde são implementadas as operações de create, read, update e delete (crud) em um banco de dados. Foram utilizadas as segiontes tecnologias para desenvoolvimento WEB: PHP, MySQL e Bootstrap 5.02. O projeto tem foco apenas nas operações básicas do CRUD
+**CRUD com PHP e MySQL** é um exemplo de aplicação onde são implementadas as operações de create, read, update e delete (crud) em um banco de dados. Foram utilizadas as seguintes tecnologias para desenvolvimento WEB: PHP, MySQL e Bootstrap. O projeto tem foco apenas nas operações básicas do CRUD.
 
 Principais ferramentas de desenvolvimento web utilizadas:
 
