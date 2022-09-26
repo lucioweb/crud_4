@@ -2,7 +2,7 @@
 ### Olá! 👋
 CRUD é acrônimo das quatro operações básicas, sobre um banco de dados, são elas:
 
-**C:* Create – Criar um novo registro.
+**C:** Create – Criar um novo registro.
 
 **R:** Read – Ler um registro, ou uma lista de registros.
 
