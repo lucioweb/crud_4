@@ -6,7 +6,7 @@ Foram utilizadas na aplicação, as seguintes tecnologias para desenvolvimento W
 A IDE utilizada foi o VSCode e o versionador de código escolhido foi o Git Hub.<br> 
 O projeto tem foco nas operações básicas do CRUD de modo que a ausência de uma IDE ou de um versionador de código não interferem no entendimento de como a aplicação é executada.
 
-- **C:** Create – Cria um novo registro.
+-- **C:** Create – Cria um novo registro.
 
 - **R:** Read – Lê um registro, ou uma lista de registros.
 
