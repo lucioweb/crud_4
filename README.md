@@ -9,7 +9,7 @@ CRUD é um acrônimo para as quatro operações básicas realizadas sobre um ban
 - **D:** Delete – Exclui um registro.
 
 ## 2 - DESENVOLVIMENTO
-### a) - TECNOLOGIAS UTILIZADAS
+### 2.1 - TECNOLOGIAS UTILIZADAS
 
 - <img align="center" heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /> Windows ✔️
 - <img align="center" heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> VSCode ✔️
