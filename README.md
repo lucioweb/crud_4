@@ -1,4 +1,4 @@
-# CRUD com PHP e MySQL no VSCode, usando o Git Hub como versionador de código.
+<!--# CRUD com PHP e MySQL no VSCode, usando o Git Hub como versionador de código.-->
 ## 1 - INTRODUÇÃO.
 <!--### Olá! 👋 😎 👨-->
 CRUD é um acrônimo para as quatro operações básicas realizadas sobre um banco de dados (Create, Read, Update, Delete).<br>
