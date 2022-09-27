@@ -6,15 +6,15 @@ Foram utilizadas na aplicação, as seguintes tecnologias para desenvolvimento W
 A IDE utilizada foi o VSCode e o versionador de código escolhido foi o Git Hub.<br> 
 O projeto tem foco nas operações básicas do CRUD de modo que a ausência de uma IDE ou de um versionador de código não interferem no entendimento de como a aplicação é executada.
 
-**C:** Create – Cria um novo registro.
+- **C:** Create – Cria um novo registro.
 
-**R:** Read – Lê um registro, ou uma lista de registros.
+- **R:** Read – Lê um registro, ou uma lista de registros.
 
-**U:** Update – Atualiza um registro.
+- **U:** Update – Atualiza um registro.
 
-**D:** Delete – Exclui um registro.
+- **D:** Delete – Exclui um registro.
 
-## 1 - Principais tecnologias de desenvolvimento web utilizadas:
+## 2 - Principais tecnologias de desenvolvimento web utilizadas:
 
 - <img align="center" heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /> Windows ✔️
 - <img align="center" heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> VSCode ✔️
