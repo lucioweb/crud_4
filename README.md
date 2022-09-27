@@ -3,7 +3,7 @@
 CRUD é um acrônimo para as quatro operações básicas realizadas sobre um banco de dados (Create, Read, Update, Delete).<br>
 **crud_4** é um exemplo de aplicação onde são implementadas em banco de dados, as operações de create, read, update e delete (crud).<br> 
 Foram utilizadas na aplicação, as seguintes tecnologias para desenvolvimento WEB: PHP, MySQL e Bootstrap, instalados em SO Windows.<br>
-A IDE utilizada foi VSCode e o versionador de código escolhido foi o Git Hub.<br> 
+A IDE utilizada foi o VSCode e o versionador de código escolhido foi o Git Hub.<br> 
 O projeto tem foco nas operações básicas do CRUD.
 
 **C:** Create – Criar um novo registro.
