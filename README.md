@@ -10,7 +10,7 @@ CRUD (Create, Read, Update, Delete) é um acrônimo para as quatro operações b
 
 **D:** Delete – Excluir um registro.
 
-**CRUD com PHP e MySQL** é um exemplo de aplicação onde são implementadas as operações de create, read, update e delete (crud) em um banco de dados. Foram utilizadas as seguintes tecnologias para desenvolvimento WEB: PHP, MySQL e Bootstrap. O projeto tem foco nas operações básicas do CRUD.
+**CRUD com PHP e MySQL** é um exemplo de aplicação onde são implementadas as operações de create, read, update e delete (crud) em banco de dados. Foram utilizadas as seguintes tecnologias para desenvolvimento WEB: PHP, MySQL e Bootstrap. O projeto tem foco nas operações básicas do CRUD.
 
 Principais tecnologias de desenvolvimento web utilizadas:
 
