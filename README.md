@@ -22,7 +22,7 @@ Principais tecnologias de desenvolvimento web utilizadas:
 - <img align="center" heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> CSS3 ✔️
 - <img align="center" heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> MySQL ✔️
 - <img align="center" heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> Bootstrap ✔️
-- <img align="center" heigth="15" width="20" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> Bootstrap ✔️
+
 
 
 <div style="display:inline_block">
@@ -40,7 +40,8 @@ Principais tecnologias de desenvolvimento web utilizadas:
   <!-- <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" /> -->
 </div>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucioweb&show_icons=true) -->
-<!-- <div style="display:inline_block">
+<div style="display:inline_block">
+
 <img src="https://img.shields.io/badge/Windows-E34F26?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/VSCode-E34F26?style=for-the-badge&logo=vscode&logoColor=white" />
 <img src="https://img.shields.io/badge/WAMPP-E34F26?style=for-the-badge&logo=wampp&logoColor=white" />
@@ -48,10 +49,10 @@ Principais tecnologias de desenvolvimento web utilizadas:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-E34F26?style=for-the-badge&logo=css3&logoColor=white" />	
 <img src="https://img.shields.io/badge/MySQL-E34F26?style=for-the-badge&logo=mysql&logoColor=white" />
-
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
 		
-</div> -->
+</div>
 
 
 <!--
