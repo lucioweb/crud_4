@@ -31,7 +31,8 @@
             <li><a class="dropdown-item" href="#">MySQL</a></li> 
             <li><a class="dropdown-item" href="#">WAMPP</a></li>
             <li><a class="dropdown-item" href="#">VSCode</a></li>
-            <li><a class="dropdown-item" href="video.php">Tutorial</a></li>           
+            <li><a class="dropdown-item" href="video.php">Tutorial em vídeo</a></li>
+            <li><a class="dropdown-item" href="https://github.com/lucioweb/crud_4" target="_blank">README</a></li>           
           </ul>
         </li>
       </ul>
