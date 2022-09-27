@@ -18,16 +18,15 @@
             <li><a class="dropdown-item" href="https://datatables.net/" target="_blank">datatables.net</a></li>
             <li><a class="dropdown-item" href="https://validator.w3.org/" target="_blank">Validando seu HTML</a></li>
             <li><a class="dropdown-item" href="https://releases.jquery.com/" target="_blank">JQuery CDN</a></li>
-            <li><a class="dropdown-item" href="https://devicon.dev/">Ícones</a></li>
-            <!-- <li><a class="dropdown-item" href="#">Something else here</a></li> -->
+            <li><a class="dropdown-item" href="https://devicon.dev/" target="_blank">Ícones</a></li>
+            <li><a class="dropdown-item" href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank">Bootstrap 5.0</a></li>
           </ul>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Links úteis
           </a>
-          <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
-            <li><a class="dropdown-item" href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank">Bootstrap 5.0</a></li>
+          <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">       
             <li><a class="dropdown-item" href="#">PHP</a></li>
             <li><a class="dropdown-item" href="#">MySQL</a></li> 
             <li><a class="dropdown-item" href="#">WAMPP</a></li>
