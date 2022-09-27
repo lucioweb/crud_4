@@ -4,7 +4,7 @@ CRUD é um acrônimo para as quatro operações básicas realizadas sobre um ban
 **crud_4** é um exemplo de aplicação onde são implementadas em banco de dados, as operações de create, read, update e delete (crud).<br> 
 Foram utilizadas na aplicação, as seguintes tecnologias para desenvolvimento WEB: PHP, MySQL e Bootstrap, instalados em SO Windows.<br>
 A IDE utilizada foi o VSCode e o versionador de código escolhido foi o Git Hub.<br> 
-O projeto tem foco nas operações básicas do CRUD de modo que a ausência de uma IDE ou de um versionador de código não interferem no entendimento de como a aplicação é execurada.
+O projeto tem foco nas operações básicas do CRUD de modo que a ausência de uma IDE ou de um versionador de código não interferem no entendimento de como a aplicação é executada.
 
 **C:** Create – Cria um novo registro.
 
@@ -26,11 +26,8 @@ Principais tecnologias de desenvolvimento web utilizadas:
 - <img align="center" heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> Bootstrap ✔️
 - <img align="center" heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" /> JQuery ✔️
 - <img align="center" heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /> Markdown ✔️
-
-   
-             
+       
           
-
 <div style="display:inline_block">
   <!-- <img align="center" heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> -->
   <!-- <img align="center" heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> -->
@@ -45,6 +42,7 @@ Principais tecnologias de desenvolvimento web utilizadas:
   <!-- <img align="center" heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> -->
   <!-- <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" /> -->
 </div>
+
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucioweb&show_icons=true) -->
 <div style="display:inline_block">
 
