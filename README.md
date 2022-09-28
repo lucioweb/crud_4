@@ -1,18 +1,15 @@
-# CRUD com PHP e MySQL no VSCode, usando o Git Hub como versionador de código.
-### Olá! 👋 😎 👨
-CRUD (Create, Read, Update, Delete) é um acrônimo para as quatro operações básicas realizadas sobre um banco de dados. CRUD tipicamente refere-se às operações perfomadas em um banco de dados ou base de dados:
+<!--# CRUD com PHP e MySQL no VSCode, usando o Git Hub como versionador de código.-->
+## 1 - INTRODUÇÃO
+<!--### Olá! 👋 😎 👨-->
+CRUD é um acrônimo para as quatro operações básicas realizadas sobre um banco de dados (Create, Read, Update, Delete). **crud_4** é um exemplo de aplicação onde são implementadas em banco de dados, as operações de create, read, update e delete (crud). Foram utilizadas na aplicação, as seguintes tecnologias para desenvolvimento WEB: PHP, MySQL e Bootstrap, instalados em SO Windows. A IDE utilizada foi o VSCode e o versionador de código escolhido foi o Git Hub. O projeto tem foco nas operações básicas do CRUD de modo que a ausência de uma IDE ou de um versionador de código não interferem no entendimento de como a aplicação é executada.
 
-**C:** Create – Criar um novo registro.
+- **C:** Create – Cria um novo registro.
+- **R:** Read – Lê um registro, ou uma lista de registros.
+- **U:** Update – Atualiza um registro.
+- **D:** Delete – Exclui um registro.
 
-**R:** Read – Ler um registro, ou uma lista de registros.
-
-**U:** Update – Atualizar um registro.
-
-**D:** Delete – Excluir um registro.
-
-**CRUD com PHP e MySQL** é um exemplo de aplicação onde são implementadas as operações de create, read, update e delete (crud) em banco de dados. Foram utilizadas as seguintes tecnologias para desenvolvimento WEB: PHP, MySQL e Bootstrap. O projeto tem foco nas operações básicas do CRUD.
-
-Principais tecnologias de desenvolvimento web utilizadas:
+## 2 - DESENVOLVIMENTO
+### 2.1 - TECNOLOGIAS UTILIZADAS
 
 - <img align="center" heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /> Windows ✔️
 - <img align="center" heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> VSCode ✔️
@@ -24,11 +21,9 @@ Principais tecnologias de desenvolvimento web utilizadas:
 - <img align="center" heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> Bootstrap ✔️
 - <img align="center" heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" /> JQuery ✔️
 - <img align="center" heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /> Markdown ✔️
-
-   
-             
+  
+### 2.2 - TECNOLOGIAS UTILIZADAS
           
-
 <div style="display:inline_block">
   <!-- <img align="center" heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> -->
   <!-- <img align="center" heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> -->
@@ -43,6 +38,7 @@ Principais tecnologias de desenvolvimento web utilizadas:
   <!-- <img align="center" heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> -->
   <!-- <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" /> -->
 </div>
+
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucioweb&show_icons=true) -->
 <div style="display:inline_block">
 
