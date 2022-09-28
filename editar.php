@@ -33,7 +33,6 @@
         </div>
 
         <?php
-        $id = $_GET['id'];
 
         $sql = "SELECT * FROM `crud_2` WHERE id = $id LIMIT 1";
         $result = mysqli_query($conn, $sql);
