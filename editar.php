@@ -1,3 +1,21 @@
+<?php
+include "db_conn.php";
+$id = $_GET['id'];
+if (isset($_POST['submit'])) {
+    $first_name = $_POST['first_name'];
+    $last_name = $_POST['last_name'];
+    $email = $_POST['email'];
+    $gender = $_POST['gender'];
+
+    $sql = "UPDATE `crud_2` SET `first_name`='$first_name',`last_name`='$last_name',`email`='$email',`gender`='$gender' WHERE id=$id";
+    $result = mysqli_query($conn, $sql);
+    if ($result) {
+        header("Location: data_table?msg=Registro atualizado com sucesso na base de dados!");
+    } else {
+        echo "Falhou! " . mysqli_error($conn);
+    }
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -21,22 +39,18 @@
 <body>
     <header>
         <!-- Include do navbar da página  -->
-        <?php include "shareds/navbar.php";?>
+        <?php include "shareds/navbar.php"; ?>
     </header>
 
     <main class="container">
         <!-- Include do update  -->
-        
+
         <div class="text-center mb-4">
             <h3>EDITAR</h3>
             <p class="text-muted">Atualize os dados do usuário</p>
         </div>
 
         <?php
-        
-        $id = $_GET['id'];
-        include "includes/update.php";
-
         $sql = "SELECT * FROM `crud_2` WHERE id = $id LIMIT 1";
         $result = mysqli_query($conn, $sql);
         $row = mysqli_fetch_assoc($result);
