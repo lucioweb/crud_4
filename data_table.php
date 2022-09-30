@@ -27,6 +27,8 @@
     </header>
 
     <main class="container">
+
+        <!--Início do bloco onde serão executadas as mensagens de alerta-->
         <?php
         if (isset($_GET['msg'])) {
             $msg = $_GET['msg'];
@@ -37,17 +39,23 @@
         }
 
         ?>
-        <a href="cadastrar.php" class="btn btn-primary mb-3"><i class="fa-solid fa-plus fs-5 me-3"></i>CADASTRAR</a>
-        <table id="datatable" class="table table-sm table-hover text-center">
+        <!--Fim do bloco onde são executadas as mensagens de alerta-->
+        <div class="text-center mb-4">
+            <h3>LISTA DE USUÁRIOS REGISTRADOS</h3>
+            <p class="text-muted">Data-list de usuários cadastrados</p>
+        </div>
+
+        <a href="cadastrar.php" class="btn btn-primary btn-sm mb-3"><i class="fa-solid fa-plus fs-5 me-3"></i>Cadastrar</a>
+        <table id="datatable" class="table table-sm table-hover">
             <!-- <table class="table table-sm table-dark"> -->
             <thead class="table-dark">
                 <tr>
-                    <th scope="col">CÓD</th>
+                    <th scope="col" class= "text-center">CÓD</th>
                     <th scope="col">NOME</th>
                     <th scope="col">SOBRENOME</th>
                     <th scope="col">EMAIL</th>
                     <th scope="col">SEXO</th>
-                    <th scope="col">EDITAR|EXCLUIR</th>
+                    <th scope="col" class= "text-center">AÇÕES</th>
                 </tr>
             </thead>
             <tbody>
@@ -58,14 +66,14 @@
                 while ($row = mysqli_fetch_assoc($result)) {
                 ?>
                     <tr>
-                        <td class=""><?php echo $row['id'] ?></td>
+                        <td class="text-center"><?php echo $row['id'] ?></td>
                         <td><?php echo $row['first_name'] ?></td>
                         <td><?php echo $row['last_name'] ?></td>
                         <td><?php echo $row['email'] ?></td>
                         <td><?php echo $row['gender'] ?></td>
-                        <td>
+                        <td class="text-center">
                             <a href="editar.php?id=<?php echo $row['id'] ?>" class="link-primary"><i class="fa-solid fa-pen-to-square fs-5 me-3"></i></a>
-                            <a href="excluir.php?id=<?php echo $row['id'] ?>" class="link-danger"><i class="fa-solid fa-trash fs-5"></i></a>
+                            <a href="excluir.php?id=<?php echo $row['id'] ?>" class="link-danger"><i class="fa-solid fa-trash fs-5 me-3"></i></a>
                         </td>
                     </tr>
 

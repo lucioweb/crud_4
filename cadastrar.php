@@ -59,8 +59,9 @@
                 </div>
 
                 <div>
-                    <button type="submit" class="btn btn-success" name="submit">Salvar</button>
-                    <a href="data_table.php" class="btn btn-danger">Cancela</a>
+                <button type="submit" class="btn btn-success btn-sm" name="submit">Salvar</button>
+                    <a href="data_table.php" class="btn btn-danger btn-sm">Cancelar</a>
+                    <button type="reset" class="btn btn-primary btn-sm" name="submit">Limpar</button>
                 </div>
             </form>
         </div>

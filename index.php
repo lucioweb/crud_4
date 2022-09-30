@@ -26,9 +26,9 @@
 
     <main class="container">
         <div class="bg-light p-5 rounded">
-            <h1>CRUD com PHP</h1>
+            <h1>CRUD_4 com PHP</h1>
             <p class="lead">Exemplo de aplicação CRUD (Create, Read, Update e Delete) utilizando PHP, MySQL e Bootstrap 5.02. Projeto com foco apenas nas operações básicas do CRUD. Aspectos como autenticação de usuário, paginação, etc, foram considerados subjacentes. </p>
-            <a class="btn btn-lg btn-primary" href="data_table.php" role="button">Start CRUD &raquo;</a>
+            <a class="btn btn-primary btn-sm" href="data_table.php" role="button">Start CRUD &raquo;</a>
         </div>
     </main>
 

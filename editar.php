@@ -26,13 +26,16 @@
 
     <main class="container">
         <!-- Include do update  -->
-        <?php include "includes/update.php";?>
+        
         <div class="text-center mb-4">
             <h3>EDITAR</h3>
             <p class="text-muted">Atualize os dados do usuário</p>
         </div>
 
         <?php
+        
+        $id = $_GET['id'];
+        include "includes/update.php";
 
         $sql = "SELECT * FROM `crud_2` WHERE id = $id LIMIT 1";
         $result = mysqli_query($conn, $sql);
@@ -68,8 +71,8 @@
                 </div>
 
                 <div>
-                    <button type="submit" class="btn btn-success" name="submit">Atualizar</button>
-                    <a href="data_table.php" class="btn btn-danger">Cancela</a>
+                    <button type="submit" class="btn btn-success btn-sm" name="submit">Atualizar</button>
+                    <a href="data_table.php" class="btn btn-danger btn-sm">Cancelar</a>
                 </div>
             </form>
         </div>
