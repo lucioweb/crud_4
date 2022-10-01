@@ -59,9 +59,9 @@
                 </div>
 
                 <div>
-                <button type="submit" class="btn btn-success btn-sm" name="submit">Salvar</button>
-                    <a href="data_table.php" class="btn btn-danger btn-sm">Cancelar</a>
-                    <button type="reset" class="btn btn-primary btn-sm" name="submit">Limpar</button>
+                    <button type="submit" class="btn btn-success btn-sm" name="submit"><i class="fa-solid fa-floppy-disk me-2"></i>Salvar</button>
+                    <a href="data_table.php" class="btn btn-danger btn-sm"><i class="fa-sharp fa-solid fa-xmark me-2"></i>Cancelar</a>
+                    <button type="reset" class="btn btn-primary btn-sm" name="submit"><i class="fa-solid fa-broom me-2"></i>Limpar</button>
                 </div>
             </form>
         </div>

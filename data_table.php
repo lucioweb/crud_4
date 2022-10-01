@@ -45,7 +45,7 @@
             <p class="text-muted">Data-list de usuários cadastrados</p>
         </div>
 
-        <a href="cadastrar.php" class="btn btn-primary btn-sm mb-3"><i class="fa-solid fa-plus fs-5 me-3"></i>Cadastrar</a>
+        <a href="cadastrar.php" class="btn btn-primary btn-sm mb-3"><i class="fa-solid fa-plus fs-2 me-3"></i>Cadastrar</a>
         <table id="datatable" class="table table-sm table-hover">
             <!-- <table class="table table-sm table-dark"> -->
             <thead class="table-dark">
